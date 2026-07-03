@@ -90,7 +90,7 @@
 <div class="wrap">
   <header>
     <div class="eyebrow">100% in your browser · nothing uploaded</div>
-    <h1>Snip <span>AI background remover</span></h1>
+    <h1>Vishal <span>AI background remover</span></h1>
     <p class="sub">Drop a photo and the background disappears — hair, edges, and all. An AI model runs entirely on your device, so your images never leave your computer.</p>
   </header>
 
